@@ -18,7 +18,7 @@ import android.util.Log;
 public class ITDTrack {
 
 	private static final int HEADER_SIZE = 44;
-	private static String TAG = "ITDTrack";
+	private static final String TAG = "ITDTrack";
 
 	/** the sampling rate of this wav file */
 	private int rate;
